@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@mysten/sui.js": "^0.50.1",
-    "axios": "^1.6.7",
+    "axios": "^1.13.5",
     "dotenv": "^16.4.5",
     "esrun": "^3.2.26",
     "navi-sdk": "^1.1.21",
