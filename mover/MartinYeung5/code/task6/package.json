@@ -14,7 +14,7 @@
     "dotenv": "^16.4.5",
     "esrun": "^3.2.26",
     "navi-sdk": "^1.1.21",
-    "next": "14.2.3",
+    "next": "15.5.14",
     "react": "^18",
     "react-dom": "^18",
     "task6": "file:",
